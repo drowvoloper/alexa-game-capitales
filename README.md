@@ -8,6 +8,3 @@ Tiene dos modos de juego:
 
 - **Restaurar**. Se borra la lista de capitales aprendidas y el récord del modo desafío.
 
--------------------------------------------------------------------------------------------------
-
-Aún hay muchas cosas que se pueden mejorar en el código, siéntete libre para hacerlo. 
